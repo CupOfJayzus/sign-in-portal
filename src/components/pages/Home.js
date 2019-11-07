@@ -47,7 +47,7 @@ export default withAuth(class Home extends Component {
 
         return (
             <div className="jumbotron">
-                <h1 className="display-4">Sign In Portal</h1>
+                <h1 className="display-4">You Have Entered The Sign In Portal</h1>
             {mainContent}
             </div>
         );
